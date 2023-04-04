@@ -1,2 +1,1 @@
-My first readme
-for my co woker
+My first readme for my co woker
